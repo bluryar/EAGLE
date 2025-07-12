@@ -1,0 +1,11 @@
+distilabel[openai]>=1.0.0
+datasets>=2.0.0
+pyarrow>=10.0.0
+transformers>=4.20.0
+torch>=2.0.0
+tqdm>=4.64.0
+requests>=2.28.0
+openai>=1.0.0
+argparse
+pathlib
+typing-extensions 

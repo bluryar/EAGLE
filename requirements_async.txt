@@ -1,0 +1,6 @@
+aiohttp>=3.8.0
+aiofiles>=23.0.0
+tqdm>=4.65.0
+pyarrow>=12.0.0
+asyncio-throttle>=1.0.0
+uvloop>=0.17.0  # 在Linux上提供更好的性能 
